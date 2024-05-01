@@ -1,5 +1,6 @@
 main.py
 metrics.py
+image-visualization.py
 
 /data/cifar-10-python.tar.gz
 
